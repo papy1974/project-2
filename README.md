@@ -9,6 +9,7 @@ This app is for people interested in learning new languages. Built with [MySQL](
 Get started using the application here:
 https://fathomless-basin-48742.herokuapp.com/
 
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
