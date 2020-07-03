@@ -1,6 +1,6 @@
 # Title
 
-Lrn It Language Translator
+Learn It Language Translator
 
 # Languages and Tools
 
@@ -14,7 +14,7 @@ This app is for people interested in learning new languages.
 * Review word bank metrics to see how many words you're learning
 
 # Description 
-To use the app, the user has to sign in  to create an account. Once an account is created, the user can login by using his username and password. The next step is for the user to click on translate from  to select a language, and click on translate to to pickup a language . The user can entered words or sentences that need to be translated and view the word or sentence translation in the buttom cards.Get started using the application here: https://fathomless-basin-48742.herokuapp.com/
+To use the app, the user has to sign in to create an account. Once an account is created, the user can log in by using his username and password. The next step is for the user to click on translate from to select a language and click on translate to pick up a language. The user can enter words or sentences that need to be translated and view the word or sentence translation in the button cards. Get started using the application here: https://fathomless-basin-48742.herokuapp.com/
 
 
 [![Build Status](https://travis-ci.com/uxhawk/project-2.svg?branch=master)](https://travis-ci.com/uxhawk/project-2)
@@ -35,10 +35,10 @@ Run `npm i` to install the following dependencies:
 * passport-local
 * sequelize
 
-For the database, look in the db directory for `db/schema.sql`. Use this schema to create a `vocabulary_db` database. [Sequelize](https://sequelize.org/) will create three tables in this database.
+For the database, look in the DB directory for `db/schema.sql`. Use this schema to create a `vocabulary_db` database. [Sequelize](https://sequelize.org/) will create three tables in this database.
 
 ## Usage
-Launch the app with either `node server.js` or `npm run watch`. The second command will launch the app with nodemon, which restarts the server after changes to a file are saved. 
+Launch the app with either `node server.js` or `npm run watch`. The second command will launch the app with a nodemon, which restarts the server after changes to a file are saved. 
 
 
 ## Testing
