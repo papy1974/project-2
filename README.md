@@ -14,8 +14,7 @@ This app is for people interested in learning new languages.
 * Review word bank metrics to see how many words you're learning
 
 # Description 
-To use the app, the user has to sign in  to create an account. Once an account is created, the user can login by using his username and password. The next step is for the user to click on translate from  to select a language, and click on translate to to pickup a language . The user can entered words or sentences that need to be translated and view the word or sentence translation in the buttom cards.Get started using the application here:
-https://fathomless-basin-48742.herokuapp.com/
+To use the app, the user has to sign in  to create an account. Once an account is created, the user can login by using his username and password. The next step is for the user to click on translate from  to select a language, and click on translate to to pickup a language . The user can entered words or sentences that need to be translated and view the word or sentence translation in the buttom cards.Get started using the application here: https://fathomless-basin-48742.herokuapp.com/
 
 
 [![Build Status](https://travis-ci.com/uxhawk/project-2.svg?branch=master)](https://travis-ci.com/uxhawk/project-2)
