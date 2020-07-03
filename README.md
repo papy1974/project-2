@@ -6,6 +6,8 @@ Learn It Language Translator
 
 Built with [MySQL](https://www.mysql.com/), [Node](https://nodejs.org/en/), [Express](https://www.npmjs.com/package/express), [Handlebars](https://www.npmjs.com/package/handlebars), [Sequelize](https://sequelize.org/), [Chart.js](https://www.chartjs.org/), [Passport](http://www.passportjs.org/), and [Bootstrap](https://getbootstrap.com/), users can create accounts and embark on their language learning journey. Project highlights:
 * Utilizes [IBM Watson Language Translator](https://www.ibm.com/watson/services/language-translator/).
+
+
 .
 # Objective 
 
